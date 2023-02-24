@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/e-commerce-app-react-typescript/static/css/main.31d6cfe0.css",
+    "main.js": "/e-commerce-app-react-typescript/static/js/main.ed50f8b0.js",
+    "index.html": "/e-commerce-app-react-typescript/index.html",
+    "main.ed50f8b0.js.map": "/e-commerce-app-react-typescript/static/js/main.ed50f8b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ed50f8b0.js"
+  ]
+}
